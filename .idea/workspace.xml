@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80ede6b4-96cb-4c1d-aac1-179d1068b093" name="Changes" comment="StringPattern&#10;+ StringPattern.bruteForceMatch" />
+    <list default="true" id="80ede6b4-96cb-4c1d-aac1-179d1068b093" name="Changes" comment="StringPattern&#10;+ StringPattern.bruteForceMatch">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +38,17 @@
         <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
     </option>
+<<<<<<< HEAD
+=======
+    <option name="enabledProfiles">
+      <list>
+        <option value="rdc" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+>>>>>>> 93a5f04 (StringPattern)
   </component>
   <component name="ProjectId" id="28TVdfJC9eelMyr6GZsuyF12geD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -113,6 +127,13 @@
       <workItem from="1651240979702" duration="167000" />
       <workItem from="1651241149415" duration="2644000" />
       <workItem from="1651243797479" duration="84000" />
+<<<<<<< HEAD
+=======
+      <workItem from="1651243883739" duration="94000" />
+      <workItem from="1651271591607" duration="499000" />
+      <workItem from="1651272095558" duration="1965000" />
+      <workItem from="1651274063153" duration="1335000" />
+>>>>>>> 93a5f04 (StringPattern)
     </task>
     <task id="LOCAL-00001" summary="StringPattern&#10;+ StringPattern.bruteForceMatch">
       <created>1651243854268</created>
@@ -121,7 +142,18 @@
       <option name="project" value="LOCAL" />
       <updated>1651243854268</updated>
     </task>
+<<<<<<< HEAD
     <option name="localTasksCounter" value="2" />
+=======
+    <task id="LOCAL-00002" summary="StringPattern&#10;+ StringPattern.bruteForceMatch">
+      <created>1651243938635</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651243938635</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+>>>>>>> 93a5f04 (StringPattern)
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +164,23 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
             <State />
+=======
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+>>>>>>> 93a5f04 (StringPattern)
           </value>
         </entry>
       </map>
@@ -142,4 +190,11 @@
     <MESSAGE value="StringPattern&#10;+ StringPattern.bruteForceMatch" />
     <option name="LAST_COMMIT_MESSAGE" value="StringPattern&#10;+ StringPattern.bruteForceMatch" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+>>>>>>> 93a5f04 (StringPattern)
 </project>
